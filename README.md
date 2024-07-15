@@ -2,18 +2,18 @@
 
 ### Detalhes
 
-[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.app/api?username=caianbr&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caian-br&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos
 
-[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=caian-br&repo=variavel&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=caian-br&repo=variavel&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
-[![Top Langs](httpsgithub-readme-stats.vercel.appapitop-langsusername=caian-brc&layout=compact)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langsusername=caian-brc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- ### Contatos
 
-[img src='httpsimg.shields.iobadgeLinkedIn-0077B5style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30']()
+[img src='https://img.shields.io/badge/LinkedIn-0077B5style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'](colocar link aqui)
 -->
