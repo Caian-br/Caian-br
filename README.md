@@ -2,7 +2,7 @@
 
 ### Detalhes
 
-[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.app/api?username=caian-br&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.app/api?username=caianbr&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
 
 ### Projetos
 
