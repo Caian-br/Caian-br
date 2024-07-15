@@ -1,16 +1,19 @@
-## Hi there 👋
+### Olá 👋
 
-<!--
-**Caian-br/Caian-br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Detalhes
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=caian-br&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Projetos
+
+[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=caian-br&repo=variavel&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+
+### Linguagens utilizadas
+
+[![Top Langs](httpsgithub-readme-stats.vercel.appapitop-langsusername=caian-brc&layout=compact)](httpsgithub.comanuraghazragithub-readme-stats)
+
+
+<!-- ### Contatos
+
+[img src='httpsimg.shields.iobadgeLinkedIn-0077B5style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30']()
 -->
